@@ -1,4 +1,5 @@
-Name: Java Maven CI Pipeline
+name: Java Maven CI Pipeline
+
 
 on:
   push:
